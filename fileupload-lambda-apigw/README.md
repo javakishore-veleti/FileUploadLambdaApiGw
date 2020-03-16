@@ -1,0 +1,1 @@
+https://blog.corkhounds.com/2019/03/25/uploading-files-to-aws-s3-through-api-gateway-and-lambda-as-multipart-form-data/
